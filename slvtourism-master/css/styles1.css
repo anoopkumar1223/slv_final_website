@@ -1,0 +1,119 @@
+
+.top-container{
+  background-color: #00a1ab ;
+  width: 100% ;
+  position:fixed;
+  z-index: 1;
+  margin-bottom: 20px;
+}
+.navbar {
+  padding:0.1rem 0.75rem 0.75rem 0.75rem;
+}
+.navbar-brand {
+  font-family: "Montserrat-Black";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.nav-title {
+  opacity: 0.85;
+  font-size: 2rem ;
+}
+.subscript{
+  font-size: 1.5rem;
+}
+
+
+img{
+  padding-top: 4.45% ;
+  width: 100%;
+  height: 600px;
+}
+.ex{
+  font-family: 'Courgette', cursive;
+}
+.info{
+  background-color: #f4f3f3;
+}
+.heading{
+  padding-top: 40px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #706c61;
+  font-weight: bold;
+}
+.paragraph{
+  font-family: 'Kanit', sans-serif;
+  font-size: 1.3rem;
+  padding: 15px;
+}
+.cover{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin-bottom: 30px;
+  color: #706c61;
+}
+table{
+  width: 100%;
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.3rem;
+}
+td{
+  padding: 15px;
+  text-align: center;
+}
+#features{
+  margin: 7% 15%;
+}
+.feature1{
+  text-align: center;
+  font-family: 'Kanit', sans-serif;
+  font-weight: bold;
+}
+.icons{
+  width: 130px;
+  height: 130px;
+}
+.row1{
+  padding-bottom: 35px;
+}
+.row2{
+  padding-bottom: 45px;
+}
+.ticket{
+  width: 400px;
+  height: 400px;
+}
+.journey{
+  padding-top: 70px;
+}
+.mail{
+  color: black;
+  font-size: 1.5rem;
+}
+.phone{
+  padding-top: 20px;
+    font-size: 1.5rem;
+}
+.footer{
+  text-align: center;
+}
+#footer{
+  font-family: 'Kanit', sans-serif;
+  background-color: #f4f3f3;
+  padding-top: 30px;
+  text-align: center;
+}
+.details{
+  padding-bottom: 30px;
+}
+
+.jyotirlinga{
+  font-weight: bold;
+}

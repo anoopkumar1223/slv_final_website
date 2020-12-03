@@ -1,0 +1,142 @@
+body{
+  background-color: #fff ;
+  font-family: "Merriweather";
+}
+
+p {
+  color: Black;
+  font-family: Montserrat-Bold;
+  font-weight: bold;
+  line-height: 1.5;
+}
+a{
+  color: #035aa6;
+  font-weight: bold;
+}
+a:hover{
+  color: #27496d;
+  font-style: normal;
+}
+h5{
+  font-weight: bold;
+}
+
+.top-container{
+  background-color: #00a1ab ;
+  width: 100% ;
+  position:fixed;
+  z-index: 1;
+  margin-bottom: 20px;
+}
+.navbar {
+  padding:0.1rem 0.75rem 0.75rem 0.75rem;
+}
+.navbar-brand {
+  font-family: "Montserrat-Black";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.nav-title {
+  opacity: 0.85;
+  font-size: 2rem ;
+}
+.subscript{
+  font-size: 1.5rem;
+}
+
+.first-img{
+  padding-top: 5% ;
+  position:relative;
+
+}
+.img-col{
+    width: 100% ;
+}
+.image-text{
+  font-family: Arvo;
+  font-weight: bold;
+  z-index: 1;
+  position: relative;
+  color: Black;
+}
+
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding-top : 7%;
+  padding-bottom: 2% ;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.features-container{
+  padding: 7% 15% ;
+  text-align: center;
+  line-height: 1.5rem ;
+}
+
+.exp-btn{
+  background-color: #df7861 ;
+  color: #fff;
+}
+.package-head{
+  background-color: #f0f0f0;
+}
+
+#packages {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 1.75rem;
+  line-height: 1.5;
+}
+
+
+.pricing-column {
+  padding: 3% 2%;
+}
+.package-header{
+  font-size: 1.25rem;
+}
+
+#footer{
+  background-color: #dddddd;
+  padding: 3% 8% ;
+  line-height: 1.25;
+  position: absolute;
+  width: 100% ;
+}
+.about-us{
+  padding-right: 1% ;
+}
+.contact-us{
+  padding-left: 10% ;
+}
+.extra{
+  width : 100%;
+}
+.abc{
+  height: 720px;
+}
